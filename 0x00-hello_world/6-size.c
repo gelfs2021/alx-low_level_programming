@@ -2,7 +2,7 @@
 
 /**
 *main-the main function will print size of d/t data types
-*return: the fun will return 0 if it work correctly
+*Return: the fun will return 0 if it work correctly
 */
 int main(void)
 {
