@@ -1,15 +1,20 @@
 #include <stdio.h>
 
 /**
- * main - prints the small letter of the alphabet,
+ * main - prints all the numbers of base 16 in lowercase,
  * followed by a new line
  * Return: it will return 0 if it works correctly
  */
 int main(void)
 {
+	int n;
 	char ch;
 
-	for (ch = 'a'; ch <= 'z'; ch++)
+	for (n = 48; n < 58; n++)
+	{
+		putchar(n);
+	}
+	for (ch = 'a'; ch <= 'f'; ch++)
 	{
 		putchar(ch);
 	}
