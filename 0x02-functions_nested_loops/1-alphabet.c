@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * print_alphabet - print from a to z 
+ *print_alphabet - print from the alphabet in order of a to z
+ *like for example a b c d ......... z
  *
- * Return: void 
+ *Return: void means it will not return any thing
  */
 void print_alphabet(void)
 {

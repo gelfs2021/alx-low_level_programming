@@ -7,7 +7,7 @@
  * Return: 1 if post , 0 if zero, -1 nega
  */
 
-int print_sign(int i )
+int print_sign(int i)
 {
 	if (i > 0)
 	{
