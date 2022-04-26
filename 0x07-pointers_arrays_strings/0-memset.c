@@ -5,6 +5,7 @@
  * @s: input pointer to string
  * @c: constant char
  * @a: number of bytes
+ * @n: comparing factor
  * Return: pointer to s string
  */
 
