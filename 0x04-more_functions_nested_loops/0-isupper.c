@@ -1,7 +1,7 @@
 #include "main.h"
 /**
 *_isupper - check if the string is upper case or lower case
-*@c : is comparing value
+*@c: is comparing value
 *Return: 1 if upper 0 elsewise
 */
 
