@@ -13,6 +13,10 @@ void print_diagonal(int n)
 
 	for (; i < n; i++)
 {
+	if(n <= 0)
+{
+	break
+}
 	for (; j < i; j++)
 {
 	_putchar(32);
