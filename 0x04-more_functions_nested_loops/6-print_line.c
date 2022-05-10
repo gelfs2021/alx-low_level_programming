@@ -12,6 +12,10 @@ void print_line(int n)
 
 	for (; i < n + 1`; i++)
 {
+	if (n == 0)
+{
+	break;
+}
 	_putchar(95);
 }
 	_putchar('\n');
