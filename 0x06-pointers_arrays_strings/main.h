@@ -1,3 +1,6 @@
+#ifndef FILE_HOLBERTON 
+#define FILE_HOLBERTON
+
 char *_strcat(char *dest, char *src);
 
 void print_number(int n);
@@ -23,3 +26,4 @@ char *leet(char *);
 char *rot13(char *);
 
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
+#endif
