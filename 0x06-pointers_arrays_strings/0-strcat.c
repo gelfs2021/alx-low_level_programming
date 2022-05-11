@@ -1,24 +1,24 @@
-#include "main.h"
+#include "holberton.h"
+
 /**
- * *_strcat - concatinating str
- * @dest: pointer
- * @src: pointer
- * Return: the new dest dest
+ * *_strcat - function commute srtings
+ * @dest: param pointer to a char
+ * @src: param pointer to a char
+ * Return: return value of dest
  */
 
 char *_strcat(char *dest, char *src)
 {
 	int i;
+	int j;
 
 	i = 0;
+	j = 0;
 
 	while (dest[i] != '\0')
 	{
 		i++;
 	}
-	int j;
-
-	j = 0;
 
 	while (src[j] != '\0')
 	{
