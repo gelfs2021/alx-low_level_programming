@@ -1,6 +1,6 @@
 #include "stdio.h"
 /**
-*main - fizzbuzz
+*main - fizzbuzz print number or fizz or buzz
 *
 *Return: nothing
 **/
@@ -28,7 +28,7 @@ int main(void)
 }
 }
 
-	prinf("Buzz\n");
+	printf("Buzz\n");
 
 }
 
