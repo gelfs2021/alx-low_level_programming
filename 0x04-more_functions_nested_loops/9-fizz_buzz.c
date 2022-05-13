@@ -3,7 +3,7 @@
 /**
 *main - fizzbuzz print number or fizz or buzz
 *
-*Return: nothing
+*Return: always 0;
 **/
 int main(void)
 {
@@ -30,6 +30,7 @@ int main(void)
 }
 
 	printf("Buzz\n");
+	return(0);
 
 }
 
