@@ -23,7 +23,10 @@ for (i = 0; i < size; i++)
 {
 		putchar(35);
 }
+if (i != (size - 1))
+{
 	putchar('\n');
+}
 }
 }
 }
