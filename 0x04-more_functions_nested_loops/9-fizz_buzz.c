@@ -28,7 +28,7 @@ int main(void)
 }
 }
 
-
+	prinf("\n")
 
 }
 
